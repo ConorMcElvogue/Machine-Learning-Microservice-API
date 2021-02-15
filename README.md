@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+### CircleCiBadge
+[![ConorMcElvogue](https://circleci.com/gh/ConorMcElvogue/Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/ConorMcElvogue/Machine-Learning-Microservice-API)
 
 ## Project Overview
 
@@ -40,6 +41,3 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
-
-### CircleCiBadge
-[![ConorMcElvogue](https://circleci.com/gh/ConorMcElvogue/Machine-Learning-Microservice-API.svg?style=svg)](https://app.circleci.com/pipelines/github/ConorMcElvogue/Machine-Learning-Microservice-API)
